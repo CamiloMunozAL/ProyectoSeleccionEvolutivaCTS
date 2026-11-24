@@ -1,0 +1,4 @@
+metodo_corto,f1_media,f1_std,f1_min,f1_max,variables_media,variables_std,tiempo_medio_s
+Genetico,0.9686,0.0136,0.9429,0.9812,6.3,1.9465,4.3431
+Todas,0.9792,0.0107,0.9627,1.0,30.0,0.0,0.0063
+Univariado,0.9565,0.0179,0.9246,0.981,6.3,1.9465,0.0057

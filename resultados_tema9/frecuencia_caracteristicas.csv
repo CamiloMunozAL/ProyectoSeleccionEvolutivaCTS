@@ -1,0 +1,31 @@
+caracteristica,frecuencia_ag,frecuencia_univariada
+worst smoothness,6,0
+worst texture,6,0
+worst symmetry,5,0
+worst concavity,4,0
+mean texture,4,0
+radius error,4,0
+texture error,3,0
+worst radius,3,10
+fractal dimension error,3,0
+worst area,3,5
+mean perimeter,3,7
+area error,2,1
+mean area,2,2
+mean concavity,2,4
+worst concave points,2,10
+concavity error,2,0
+mean fractal dimension,2,0
+worst perimeter,1,10
+mean smoothness,1,0
+mean radius,1,4
+concave points error,1,0
+mean compactness,1,0
+worst compactness,1,0
+compactness error,1,0
+mean concave points,0,10
+mean symmetry,0,0
+perimeter error,0,0
+smoothness error,0,0
+symmetry error,0,0
+worst fractal dimension,0,0
